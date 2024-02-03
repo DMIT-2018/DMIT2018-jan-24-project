@@ -56,7 +56,7 @@ Receiving involves the manual verification of items shipped by the vendor agains
 
 ![Unordered Items](./nonordereditems.png)
 
-*Back to the [General Instructions](./README.md)*
+*Back to the [General Instructions](./ReadMe.md)*
 
 ---
 
