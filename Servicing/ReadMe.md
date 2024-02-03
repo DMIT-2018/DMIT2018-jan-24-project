@@ -101,4 +101,4 @@ Use the following rules when processing part servicing.
 
 **Extended Information [Introduction to Servicing](Introduction%20to%20Servicing.md)**
 <br>
-*Back to the [Servicing](./../ReadMe.md)*
+*Back to the [General Instructions](./../ReadMe.md)*
