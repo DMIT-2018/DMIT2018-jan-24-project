@@ -59,7 +59,7 @@ This section would detail the process for mechanics to enter parts used during a
 
 ![eBikes - servicing ERD](./job_servicing_ERD.png)
 
-*Back to the [General Instructions](./ReadMe.md)*
+*Back to the [Servicing](./ReadMe.md)*
 
 ---
 
