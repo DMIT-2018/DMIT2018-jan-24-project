@@ -1,4 +1,4 @@
-# Receiving Purchase Orders
+# Receiving Outstanding Purchase Orders
 
 > **NOTE:** These specifications may be supplemented by your instructor with sequence and/or class diagrams for the use cases involving transactional processing. When provided, you must follow the guidance of those diagrams.
 
@@ -81,4 +81,6 @@ Business Rules and Form Processing
 
 ![Unordered Items](./nonordereditems.png)
 
+**Extended Information [Introduction to Receiving](Introduction%20to%20Receiving.md)**
+<br>
 *Back to the [General Instructions](./../README.md)*

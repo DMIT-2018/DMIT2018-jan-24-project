@@ -96,6 +96,9 @@ Use the following rules when processing part servicing.
 
 ----
 
+
 ![eBikes - servicing ERD](./job_servicing_ERD.png)
 
+**Extended Information [Introduction to Servicing](Introduction%20to%20Servicing.md)**
+<br>
 *Back to the [General Instructions](./../README.md)*

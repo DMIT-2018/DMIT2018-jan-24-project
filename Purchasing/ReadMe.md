@@ -84,4 +84,7 @@ Business Rules and Form Processing
 
 ![Stock Items](./vendorinventory.png)
 
+**Extended Information [Introduction to Purchase Orders](Introduction%20to%20Purchase%20Orders.md)**
+<br>
 *Back to the [General Instructions](./../README.md)*
+

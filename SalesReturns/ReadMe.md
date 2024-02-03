@@ -84,4 +84,7 @@ Use the following rules when processing returns.
 
 ![eTools - Shopping ERD](./salesreturns_erd.png)
 
+**Extended Information [Introduction to Sales and Returns](Introduction%20to%20Sales%20and%20Returns.md)**
+<br>
+
 *Back to the [General Instructions](./../README.md)*
