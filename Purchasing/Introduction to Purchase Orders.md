@@ -86,7 +86,7 @@ By adhering to these rules, organizations can leverage purchase orders as effect
 
 ![Stock Items](./vendorinventory.png)
 
-*For detailed instructions and further information, refer back to the [General Instructions](./../README.md).*
+*For detailed instructions and further information, refer back to the [General Instructions](./../ReadMe.md).*
 
 ---
 
