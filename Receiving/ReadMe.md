@@ -83,4 +83,4 @@ Business Rules and Form Processing
 
 **Extended Information [Introduction to Receiving](Introduction%20to%20Receiving.md)**
 <br>
-*Back to the [General Instructions](./../README.md)*
+*Back to the [General Instructions](./../ReadMe.md)*
