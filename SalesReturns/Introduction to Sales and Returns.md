@@ -45,7 +45,7 @@ Customers can return items for a refund, given they have the original receipt an
 
 ![eTools - Shopping ERD](./salesreturns_erd.png)
 
-*Back to the [General Instructions](./README.md)*
+*Back to the [General Instructions](./ReadMe.md)*
 
 ---
 
