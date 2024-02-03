@@ -86,5 +86,5 @@ Business Rules and Form Processing
 
 **Extended Information [Introduction to Purchase Orders](Introduction%20to%20Purchase%20Orders.md)**
 <br>
-*Back to the [General Instructions](./../README.md)*
+*Back to the [General Instructions](./../ReadMe.md)*
 
