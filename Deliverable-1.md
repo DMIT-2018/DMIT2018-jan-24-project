@@ -1,4 +1,4 @@
-# Deliverable 2 - **Transactional Service Methods**
+# Deliverable 1 - **Transactional Service Methods**
 
 This deliverable requires that you create working solution(s) for your query and transactional service methods using Linqpad. Test the service method(s). **All** method are to be coded in a single Linqpad Program environment file. Once you have a working query or transactional method, implementation the method in your class library subsystem.
 
