@@ -82,7 +82,7 @@ namespace Sales
 }
 ```
 4.  You now have access to calling your external LINQ queries
-![Qry Output](LINQ_Output.png)
+![Query Output](Query_Output.png)
 
 
 
