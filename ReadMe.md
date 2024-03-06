@@ -55,8 +55,8 @@ So, we invite you to join us on this journey. Together, we can turn the gears of
 
 This lab is broken up into the following deliverables. Your instructor will inform you of the specific due-dates for these deliverables along with any modifications to these specifications. You should take note of the [**Marking Guide**](./Marking/ReadMe.md). Check your planning calendar for deliverable due dates.
 
-2. **15% - [TRX Service Method](./Deliverable-1.md)** - The development and testing of your transaction method(s) required by your selected scenario. The details for this requirement can be found in this document.
-3. **15% - [Final Solution](./Deliverable-2.md)** - The final solution will consist of the working implementation of your team members' individual scenarios. The scenarios must be integrated as a single Visual Studio solution. The details for your individual scenario requirements can be found in the following documents.
+1. **15% - [TRX Service Method](./Deliverable1/Deliverable-1.md)** - The development and testing of your transaction method(s) required by your selected scenario. The details for this requirement can be found in this document.
+2. **15% - [Final Solution](./Deliverable-2.md)** - The final solution will consist of the working implementation of your team members' individual scenarios. The scenarios must be integrated as a single Visual Studio solution. The details for your individual scenario requirements can be found in the following documents.
     - [**Purchasing**](./Purchasing/ReadMe.md)
     - [**Receiving**](./Receiving/ReadMe.md)
     - [**Servicing**](./Servicing/ReadMe.md)

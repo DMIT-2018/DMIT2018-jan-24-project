@@ -1,17 +1,21 @@
-# Receiving Sub-System
+# Service Sub-System
 
 > Name: **STUDENT_NAME**
 
-| Mark | Weight | Area |
+| Mark | Weight |Area |
 |:----:|:----:|:-----|
-| **`TBA`** |3 | Deliverable Issue with Task comment   |
-| **`TBA`**|1 | DISPLAYING – PURCHASE ORDERS TO BE RECEIVED |
-| **`TBA`**|2 | DISPLAYING – SELECT ORDER FOR PROCESSING |
-| **`TBA`**|4 | PROCESSING – UNORDERED PURCHASE ITEMS |
-| **`TBA`**|3 | PROCESSING – FORCED CLOSURE |
-| **`TBA`**|10 (2 * 5) | PROCESSING – RECEIVE ORDER W. RETURNS |
-
-| **`TBA`**|**23** | **TOTAL** |
+| **`TBA`**|2 | DISPLAYING – FILTER SEARCH FOR CUSTOMER |
+| **`TBA`**|1 | DISPLAYING - FILTER SEARCH FOR CUSTOMER VEHICLE SELECTION |
+| **`TBA`**|1 | DISPLAYING – VECHICLE SELECTION |
+| **`TBA`**|2 | PROCESSING/WEB PAGE – ADD A SERVICE |
+| **`TBA`**|1 | DISPLAYING - RESET SERVICE REQUEST |
+| **`TBA`**|1 | DISPLAYING - CANCEL JOB REQUEST |
+| **`TBA`**|2 | PROCESSING/WEB PAGE – REMOVE A SERVICE  |
+| **`TBA`**|2 | DISPLAYING/WEB PAGE - ADD A STANDARD SERVICE |
+| **`TBA`**|2 | DISPLAYING – COUPON VERIFICATION |
+| **`TBA`**|2 | DISPLAYING – CALCULATE ESTIMATED CHARGES |
+| **`TBA`**|6 (3 * 2) | PROCESSING – REGISTER JOB |
+| **`TBA`**|**22** | **TOTAL** |
 
 ----
 
@@ -27,5 +31,4 @@
 
 ----
 
-
-*Back to the [Part 2 Marking](./ReadMe.md)*
+*Back to the [Part 3 Marking](./ReadMe.md)*
