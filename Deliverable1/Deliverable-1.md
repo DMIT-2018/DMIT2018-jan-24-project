@@ -640,6 +640,9 @@ Issues are area in which you can a list all outstanding task that you need to co
 
 ## Issues
 ### Student Name: James Thompson
+# View Models
+- [ ]  CustomerSearchView
+- [ ]  CustomerEditView
 
 # Query Method
 - [ ] GetCustomers(string lastName)
