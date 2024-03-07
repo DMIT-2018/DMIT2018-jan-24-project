@@ -16,6 +16,8 @@ To start the process, all outstanding orders are displayed to the receiver. From
 
 Once the receiver has finished verifying the order and making the necessary receiving entries on the screen, a button is pressed to process the data. The data currently displayed on the screen is sent for **bulk** processing by the system. **Partial orders are received.**
 
+<a href="Process%20Flow%20of%20Data.md" target="_blank">Process Flow of Data.md</a>
+
 A receiver can also Force Close an order (this is a management decision). A Force Close is used when the outstanding order will not be full-filled by the supplier for one reason or another, such as the supplier has gone out of business or the product is no longer available or produced. A Force Close order must have a reason supplied.
 
 After either Receiving or Force Close, refresh the display so a new order can be selected from the outstanding list of orders.
