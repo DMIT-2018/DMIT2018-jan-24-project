@@ -4,7 +4,7 @@ The marking guide for each section is based on the [Lab Specs](../ReadMe.md) for
 
 - [Deliverable 1](./Part-1/ReadMe.md)
 - [Deliverable 2](./Part-2/ReadMe.md)
-- [Deliverable 3](./Part-3/ReadMe.md)
+
 
 ----
 
