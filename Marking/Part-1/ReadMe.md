@@ -2,7 +2,7 @@
 
 > Name: **STUDENT_NAME**
 
-> Scenario: **Purchasing Receiving Sales/Returns Service**
+> Scenario: **Purchasing, Receiving, Sales/Returns or Service**
 
 ## **Weight 15%** - Deliverable 1 - Development of query/transactional service methods
 
